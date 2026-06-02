@@ -1,1 +1,1 @@
-# avance_social_individual
+# proyecto_sistemas
